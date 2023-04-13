@@ -2,7 +2,7 @@
 
 - 👨‍💻  Trabalho com Redação de Textos Técnicos
 - 🎓  Curso Ciência da Computação
-- 🕮  Estudo Front-End
+- 🕮  Estudo Front-End e QA
 #
 
 <div>
