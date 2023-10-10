@@ -2,7 +2,6 @@
 
 - 👨‍💻  Trabalho com Redação de Textos Técnicos
 - 🎓  Curso Ciência da Computação
-- 🕮  Entusiasta de Front-end
 #
 
 <div>
